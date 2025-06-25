@@ -13,7 +13,7 @@ I'm an indie videogame developer and student at Arizona State University focused
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br />
 
-### Links 🔗
+## Links 🔗
 Portfolio Website: https://theoxenakis.github.io/Portfolio-Website-WIP/
 Email: theodore.xen7@gmail.com
 Youtube: https://tzontius
