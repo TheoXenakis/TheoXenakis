@@ -16,4 +16,4 @@ I'm an indie videogame developer and student at Arizona State University focused
 ## Links 🔗
 ### <a href="https://theoxenakis.github.io/Portfolio-Website-WIP/">💻 Portfolio Website</a>
 ### <a href="mailto:theodore.xen7@gmail.com">📬 Email</a>
-### <a href="https://www.youtube.com/@Tzontius">📹YouTube</a>
+### <a href="https://www.youtube.com/@Tzontius">📹 YouTube</a>
