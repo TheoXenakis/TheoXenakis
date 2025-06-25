@@ -1,4 +1,4 @@
-# :hurtrealbad: Theo Xenakis
+# 🌉 Theo Xenakis
 
 **`VideoGame Developer`**
 
